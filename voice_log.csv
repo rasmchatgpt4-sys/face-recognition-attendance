@@ -1,0 +1,19 @@
+timestamp,raw,norm,intent,matched_name,score,response
+2025-12-11T21:10:30.081220,is Azhar present today,is azhar present today,is_present_exact,azhar,,"Yes — azhar is present, marked at 14:38:04."
+2025-12-11T21:28:09.299103,who all are present,who all are present,fallback,,,"Sorry, I can answer: 'Is <name> present?', 'How many present?' or 'Who is present?'."
+2025-12-11T23:07:48.493497,whether I was present today or not,whether i was present today or not,doc_answer,,,"2024-2025
+Technovision 2024(1st Prize in project Presentation) Sanket on 16th May 2024 . It was a great opportunity for new students to get familiar with the department’s culture and resources. It was a nostalgic moment for students to bid farewell to friends, mentors, and the department that has been their second home."
+2025-12-11T23:34:39.533672,is Sunanda present today,is sunanda present today,is_present_exact,SUNANDA MANNE,,"Yes — SUNANDA MANNE is present, marked at 22:56:54."
+2025-12-12T00:34:41.059682,Chori Chori,chori chori,fallback,,,"Sorry, I can answer: 'Is <name> present?', 'How many present?', 'Who is present?', or ask departmental questions."
+2025-12-12T00:35:25.231107,is Sunanda present today,is sunanda present today,confirm_needed,SUNANDA MANNE,0.7,Please say the name again.
+2025-12-12T00:40:46.045887,listen today,listen today,fallback,,,"Sorry, I can answer: 'Is <name> present?', 'How many present?', 'Who is present?', or ask departmental questions."
+2025-12-12T00:40:54.792034,is Sunanda manne present,is sunanda manne present,is_present_fuzzy_no_record,SUNANDA MANNE,1.0,No attendance record found for SUNANDA MANNE today.
+2025-12-12T00:48:01.430549,hey Allen,hey allen,wake_followup_no_input,,,no_input
+2025-12-12T00:48:20.307414,is Sunanda manne present,is sunanda manne present,is_present_fuzzy_no_record,SUNANDA MANNE,1.0,No attendance record found for SUNANDA MANNE today.
+2025-12-12T00:48:55.755786,department assistant robot made by AIMS students,department assistant robot made by aims students,fallback,,,"Sorry, I can answer: 'Is <name> present?', 'How many present?', 'Who is present?', or ask departmental questions."
+2025-12-12T00:48:55.758672,department assistant robot made by AIMS students,department assistant robot made by aims students,wake_followup_processed,,,processed
+2025-12-12T00:59:33.091655,is Sunanda present,is sunanda present,is_present_exact,SUNANDA MANNE,,"Yes — SUNANDA MANNE is present, marked at 00:57:00."
+2025-12-12T01:02:58.204307,is Sunanda manne present,is sunanda manne present,is_present_exact,SUNANDA MANNE,,"Yes — SUNANDA MANNE is present, marked at 00:57:00."
+2025-12-12T01:11:24.999553,made by,made by,fallback,,,"Sorry, I can answer: 'Is <name> present?', 'How many present?', 'Who is present?', or ask departmental questions (e.g., 'Who is HOD?', 'How many labs?')."
+2025-12-12T02:18:05.112781,is Sunanda present,is sunanda present,is_present_exact,SUNANDA MANNE,,"Yes — SUNANDA MANNE is present, marked at 00:57:00."
+2025-12-12T10:30:52.442336,hey Allen is Sunanda present today,hey allen is sunanda present today,is_present_exact,SUNANDA MANNE,,"Yes — SUNANDA MANNE is present, marked at 00:57:00."
